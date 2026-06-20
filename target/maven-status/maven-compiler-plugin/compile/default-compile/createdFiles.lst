@@ -1,0 +1,13 @@
+com\fitproject\bffusuarios\controller\AuthController.class
+com\fitproject\bffusuarios\controller\AdminUsersController.class
+com\fitproject\bffusuarios\client\UsersClient.class
+com\fitproject\bffusuarios\dto\CreateUserRequestBff.class
+com\fitproject\bffusuarios\dto\AuthResponseMs.class
+com\fitproject\bffusuarios\config\FeignExceptionHandler.class
+com\fitproject\bffusuarios\config\SecurityConfig.class
+com\fitproject\bffusuarios\dto\UserDTO.class
+com\fitproject\bffusuarios\dto\LoginRequest.class
+com\fitproject\bffusuarios\security\JwtService.class
+com\fitproject\bffusuarios\dto\LoginResponse$LoginResponseBuilder.class
+com\fitproject\bffusuarios\dto\LoginResponse.class
+com\fitproject\bffusuarios\BffUsuariosApplication.class

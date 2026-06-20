@@ -1,0 +1,12 @@
+C:\Users\maldo\FitProject\Producto\Backend\BFF-Usuarios\src\main\java\com\fitproject\bffusuarios\BffUsuariosApplication.java
+C:\Users\maldo\FitProject\Producto\Backend\BFF-Usuarios\src\main\java\com\fitproject\bffusuarios\dto\LoginResponse.java
+C:\Users\maldo\FitProject\Producto\Backend\BFF-Usuarios\src\main\java\com\fitproject\bffusuarios\config\SecurityConfig.java
+C:\Users\maldo\FitProject\Producto\Backend\BFF-Usuarios\src\main\java\com\fitproject\bffusuarios\dto\LoginRequest.java
+C:\Users\maldo\FitProject\Producto\Backend\BFF-Usuarios\src\main\java\com\fitproject\bffusuarios\security\JwtService.java
+C:\Users\maldo\FitProject\Producto\Backend\BFF-Usuarios\src\main\java\com\fitproject\bffusuarios\client\UsersClient.java
+C:\Users\maldo\FitProject\Producto\Backend\BFF-Usuarios\src\main\java\com\fitproject\bffusuarios\dto\AuthResponseMs.java
+C:\Users\maldo\FitProject\Producto\Backend\BFF-Usuarios\src\main\java\com\fitproject\bffusuarios\config\FeignExceptionHandler.java
+C:\Users\maldo\FitProject\Producto\Backend\BFF-Usuarios\src\main\java\com\fitproject\bffusuarios\controller\AdminUsersController.java
+C:\Users\maldo\FitProject\Producto\Backend\BFF-Usuarios\src\main\java\com\fitproject\bffusuarios\dto\CreateUserRequestBff.java
+C:\Users\maldo\FitProject\Producto\Backend\BFF-Usuarios\src\main\java\com\fitproject\bffusuarios\controller\AuthController.java
+C:\Users\maldo\FitProject\Producto\Backend\BFF-Usuarios\src\main\java\com\fitproject\bffusuarios\dto\UserDTO.java
