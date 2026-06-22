@@ -1,5 +1,6 @@
 package com.fitproject.bffusuarios.client;
 
+import com.fitproject.bffusuarios.client.fallback.UsersClientFallbackFactory;
 import com.fitproject.bffusuarios.dto.AuthResponseMs;
 import com.fitproject.bffusuarios.dto.LoginRequest;
 import com.fitproject.bffusuarios.dto.UserDTO;
@@ -9,7 +10,11 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@FeignClient(name = "ms-users", url = "${ms.users.url}")
+@FeignClient(
+        name = "ms-users",
+        url = "${ms.users.url}",
+        fallbackFactory = UsersClientFallbackFactory.class
+)
 public interface UsersClient {
 
     @PostMapping("/api/v1/users/authenticate")
